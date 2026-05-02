@@ -1,0 +1,28 @@
+{
+  "name": "jgcosme-plugins",
+  "description": "Personal Claude Code plugins by jgcosme",
+  "owner": {
+    "name": "Jeff Cosme",
+    "email": "jeff@thinkingmachin.es"
+  },
+  "plugins": [
+    {
+      "name": "obsidian-memory",
+      "description": "Obsidian-backed persistent memory for Claude Code",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/jgcosme/claude-obsidian-memory.git",
+        "path": "plugins/obsidian-memory"
+      }
+    },
+    {
+      "name": "slack-sessions",
+      "description": "Drive Claude Code from Slack with one isolated session per thread",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/jgcosme/claude-slack-sessions.git",
+        "path": "plugins/slack-sessions"
+      }
+    }
+  ]
+}
