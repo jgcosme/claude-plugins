@@ -10,9 +10,8 @@
       "name": "obsidian-memory",
       "description": "Obsidian-backed persistent memory for Claude Code",
       "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/jgcosme/claude-obsidian-memory.git",
-        "path": "plugins/obsidian-memory"
+        "source": "url",
+        "url": "https://github.com/jgcosme/claude-obsidian-memory.git"
       }
     },
     {
