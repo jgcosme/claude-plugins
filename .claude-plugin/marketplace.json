@@ -19,8 +19,8 @@
       "name": "slack-sessions",
       "description": "Drive Claude Code from Slack with one isolated session per thread",
       "source": {
-        "source": "github",
-        "repo": "jgcosme/claude-slack-sessions"
+        "source": "url",
+        "url": "https://github.com/jgcosme/claude-slack-sessions.git"
       }
     }
   ]
